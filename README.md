@@ -49,5 +49,21 @@
 
 ![](Resources/ttest_lot3.png)
 
+#### From the Lot 1 and Lot 2 t-test you can see that p-value << than 0.05 which in this scenario, “we fail to reject the null hypothesis” or that the “the two population means are equal.
+
+####  Lot 3 on the other hand it can be observed that the p-value is 0.16 >> 0.05 and hence the two populations means are not equal as can be observed by the mean x value of 1496.1.
+
+## Study Design: MechaCar Vs. Competition
+
+#### In order to complete the above we would need a greater dataset that included other variables such as price, safety ratings, and other such metrics.
+
+#### We would develop a Null and Alternative Hypothesis somewhere around the ideas of:
+
+-H0 (Null): MechaCar’s competes with its competitors in the areas of X, Y, and Z metrics.
+
+-Ha(Alternative): MechaCar’s does not compete with its competitors by “so much” in the areas of X, Y, and Z.
+
+#### The test used above such as mean, median, linear regression, p-test, and t-test to confirm if any differences exist.  Again, an expanded data set would be needed for this analysis.
+
 
 
