@@ -33,4 +33,21 @@
 
 #### As can be seen the variance of the Lots 1 and 2 are very low which indicates that manufacturing standards are high and built to tight tolerances.  When we look at the PSI variance for Lot 3 we can see that the lot is out of specifications @ 170 PSI variance.  This means that the tooling/company/vendor that created lot 3 is producing out of specification coil springs and this need to be investigated.  Not only was the variance in excess of allowable figures but was almost accepted into the batch due to the very low variance of other lots.
 
+####  This segues into one more additional test.
+
+## t-Test on Suspension Coils (Deliverable III)
+
+#### Well start the discussion by introducing the data:
+
+![](Resources/ttest_tot.png)
+
+#### Testing the data population in Lot parts yields that the following data for the three different Lots.
+
+![](Resources/ttest_lot1.png)
+
+![](Resources/ttest_lot2.png)
+
+![](Resources/ttest_lot3.png)
+
+
 
